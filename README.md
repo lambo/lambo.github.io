@@ -1,8 +1,6 @@
-# lambo.github.io
+# Lambert Heller
 
 ## Enriching Wikimedia Commons with an open content identifier - a suggestion
-
-[TOC]
 
 ## Was ist Content Identification?
 
