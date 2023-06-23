@@ -2,7 +2,7 @@
 
 ## Enriching Wikimedia Commons with an open content identifier - a suggestion
 
-## Was ist Content Identification?
+## What is Content Identification?
 
 Large media databases such as YouTube and Spotify have been using content identification algorithms for many years. ([https://de.wikipedia.org/wiki/Content_ID](https://de.wikipedia.org/wiki/Content_ID)) These are systems with which content uploaded quickly in the background is checked to see whether it contains content, in whole or in part, that has previously been claimed by a copyright owner as its own content, e.g. as only reusable against payment of a license fee. Content-ID is now able to recognize even small parts of a work fairly well. Some of the components are still reliably recognized even if they are reproduced in a distorted or altered manner.
 
